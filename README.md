@@ -125,22 +125,7 @@ This diagram represents the system's structure and the relationships between its
 - [Dev Khurana](https://github.com/devkhurana02)
 - [Manaswi Singh](https://github.com/sonderxd)
 
-## Folder Structure
 
-```
-AngelFincap-LoanSystem/
-├── index.php          # Entry point for the application
-├── config.php         # Database configuration file
-├── assets/            # CSS, JS, and images
-├── borrower/          # Borrower-related functionalities
-├── officer/           # Branch Officer-specific modules
-├── verifier/          # Verifier-specific modules
-├── dashboard/         # Dashboard views for different roles
-├── reports/           # PDF generation for loan reports
-└── schema.sql         # Database schema
-```
-
----
 
 Here's a revised version of your content with added spacing between the images and descriptions to make it visually more organized:
 
