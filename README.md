@@ -120,6 +120,11 @@ This diagram represents the system's structure and the relationships between its
 
 ---
 
+## CONTRIBUTORS
+
+- [Dev Khurana](https://github.com/devkhurana02)
+- [Manaswi Singh](https://github.com/sonderxd)
+
 ## Folder Structure
 
 ```
