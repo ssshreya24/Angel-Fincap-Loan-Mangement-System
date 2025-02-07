@@ -122,9 +122,9 @@ This diagram represents the system's structure and the relationships between its
 
 ## CONTRIBUTORS
 
-- [Dev Khurana](https://github.com/devkhurana02)
-- [Manaswi Singh](https://github.com/sonderxd)
-
+## Contributor
+- Prince Kumar  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/prince-kumar-519a05287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 Here's a revised version of your content with added spacing between the images and descriptions to make it visually more organized:
