@@ -241,7 +241,7 @@ Below is the *Screenshot* of the Angel Fincap Loan Management System:
 ## Contributor
 - Prince Kumar  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/prince-kumar-519a05287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Dev Khuaran
+- Dev Khuaran()
 
 ## License
 
